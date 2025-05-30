@@ -5,8 +5,8 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "testpi.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "krtunnel"; // Ganti dengan nama workers kalian
-const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = ""; // Ganti dengan email yang kalian gunakan
+const apiKey = "pfqh_253L7dNJqq7C3np22gLCSkUHM7ZjQz8P7l4"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiEmail = "testpi@kmail.li"; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
